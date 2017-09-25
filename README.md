@@ -8,3 +8,4 @@ Package requirements:
 - Matplotlib (2.0.2 or later)
 - Pandas (0.20.3 or later)
 - Sklearn (0.19.0 or later)
+- Jupyter (optional)
